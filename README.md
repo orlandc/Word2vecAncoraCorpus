@@ -32,7 +32,7 @@ Aplicacion del modelo Word2vec al Ancora Corpus CESS_CAST v3.0
 | Parametros                 | Valor     | Descripción                           |
 | :---                       |    :----: |                                  ---: |
 | número de carcataeristicas | 100       | Dimensionalidad del vector Resultante |
-| minimo conteo de palbras   | 1         | Minimum word count threshold          |
+| minimo conteo de palbras   | 1         | Umbral mínimo de conteo de palabras   |
 | Tamaño del contecto        | 5         | Tamaño de la ventana de Palabras      |
 
 ### Requerimientos
