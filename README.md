@@ -8,7 +8,7 @@ Word2vec apply to Ancora Corpus CESS_CAST v3.0
 | Parameter       | Value     | Description                                  |
 | :---            |    :----: |                                         ---: |
 | number features | 100       | Dimensionality of the resulting word vectors |
-| min word count  | 1         | Minimum word count thresholdAnd more         |
+| min word count  | 1         | Minimum word count threshold                 |
 | context_size    | 5         | Context window length                        |
 
 ### Requirements
@@ -28,6 +28,12 @@ python word2vec.py
 ## Spanish
 
 Aplicacion del modelo Word2vec al Ancora Corpus CESS_CAST v3.0
+
+| Parametros                 | Valor     | Descripción                           |
+| :---                       |    :----: |                                  ---: |
+| número de carcataeristicas | 100       | Dimensionalidad del vector Resultante |
+| minimo conteo de palbras   | 1         | Minimum word count threshold          |
+| Tamaño del contecto        | 5         | Tamaño de la ventana de Palabras      |
 
 ### Requerimientos
 
