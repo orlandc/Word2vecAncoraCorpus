@@ -4,6 +4,13 @@
 
 Word2vec apply to Ancora Corpus CESS_CAST v3.0
 
+
+| Parameter       | Value     | Description                                  |
+| :---            |    :----: |                                         ---: |
+| number features | 100       | Dimensionality of the resulting word vectors |
+| min word count  | 1         | Minimum word count thresholdAnd more         |
+| context_size    | 5         | Context window length                        |
+
 ### Requirements
 
 nltk
