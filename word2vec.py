@@ -31,10 +31,9 @@ for i, f in enumerate(files):
             else:
                 diccionario[word] += 1
 
-print ("numero de oraciones presnetes en el corpus " + str(len(sentences)))
-print ("numero de palabras unicas de palabras " + str(len(diccionario)))
+print ("numero de oraciones presentes en el corpus " + str(len(sentences)))
+print ("numero de palabras únicas " + str(len(diccionario)))
 
-#print sentences[1:2]
 
 num_features = 100                        #Dimensionality of the resulting word vectors
 min_word_count = 1                        #Minimum word count threshold
